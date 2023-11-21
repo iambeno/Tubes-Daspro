@@ -10,4 +10,4 @@ Repositori ini berisi tugas besar mata kuliah Dasar Pemrograman yang dibuat oleh
 - Muhammad Abriyansyah Pratama (NIM : 105222021)
 
 ## Deskripsi Program
-Program yang kami buat adalah program E-Kios sederhana yang kami beri nama `Petal Cafe`
+Program yang kami buat adalah program E-Kios sederhana yang kami beri nama *Petal Cafe*
